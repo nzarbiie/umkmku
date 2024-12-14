@@ -1,5 +1,5 @@
 function redir () {
-    window.location.href= "https://chat.whatsapp.com/DARB1HNJtK34o43hNR4wHr"
+    window.location.href= "https://drive.google.com/drive/folders/19B3k2rC7A5PQSt-VfGtfaWX6vdvf6vAQ?usp=sharing"
 }
 
 function redirwa () {

@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.quiz-container {
+    text-align: center;
+}
+
+.options-container {
+    margin: 20px 0;
+}
+
+.next-btn {
+    margin-top: 20px;
+}
+.homeback {
+    margin-left: 30px;
+}

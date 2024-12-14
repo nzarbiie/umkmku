@@ -111,7 +111,7 @@ a {
     padding: 10px;
 }
 .parallax {
-    background-image: url(aset/um2.jpg);
+    background-image: url(um2.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat; 
@@ -184,7 +184,7 @@ a {
  .containerb {
 
     padding: 10px 0px;
-    background-image: url(aset/um2.jpg);
+    background-image: url(um2.jpg);
     height: 100vh;
     background-repeat: no-repeat;
     background-attachment: fixed;
